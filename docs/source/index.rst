@@ -9,7 +9,7 @@ BEGINNING: Basics and Essentials for Getting INto astroNomy computING
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tips and Notations
+   :caption: Tips and Notations in Coding/Compiling
 
    c_cpp
    shell
