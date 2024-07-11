@@ -1,5 +1,5 @@
 # BEGINNING
-BEGINNING: Basics and Essentials for Getting INto astroNomy computING 
+BEGINNING: Basics and Essentials for Getting INto astroNomy computING  
 Our website is: https://beginning.readthedocs.io/ 
 
 Add questions/solutions in Issues.  
