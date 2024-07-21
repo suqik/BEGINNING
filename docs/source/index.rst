@@ -14,6 +14,7 @@ BEGINNING: Basics and Essentials for Getting INto astroNomy computING
    c_cpp
    shell
    mpi
+   py_conda
 
 .. toctree::
    :maxdepth: 2
